@@ -1,4 +1,4 @@
-package notificationSystem;
+package notification;
 
 public abstract class Systems {
    private String message;

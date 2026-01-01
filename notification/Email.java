@@ -1,4 +1,4 @@
-package notificationSystem;
+package notification;
 
 public class Email extends Systems {
     Email(String message){

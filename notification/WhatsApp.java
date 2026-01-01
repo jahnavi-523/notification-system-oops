@@ -1,4 +1,4 @@
-package notificationSystem;
+package notification;
 
 public class WhatsApp extends Systems {
  WhatsApp(String message){
