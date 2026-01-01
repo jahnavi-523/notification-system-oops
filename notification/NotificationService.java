@@ -1,8 +1,8 @@
 package notification;
 
-public abstract class Systems {
+public abstract class NotificationService {
    private String message;
-    Systems(String message){
+    NotificationService(String message){
         this.message=message;
     }
    protected abstract void notification(String message);

@@ -1,6 +1,6 @@
 package notification;
 
-public class Email extends Systems {
+public class Email extends NotificationService {
     Email(String message){
         super(message);
     }

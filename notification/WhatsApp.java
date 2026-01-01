@@ -1,6 +1,6 @@
 package notification;
 
-public class WhatsApp extends Systems {
+public class WhatsApp extends NotificationService {
  WhatsApp(String message){
         super(message);
 

@@ -1,6 +1,6 @@
 package notification;
 
-public class SMS extends Systems {
+public class SMS extends NotificationService {
    SMS(String message){
         super(message);
         // this.message=message;
